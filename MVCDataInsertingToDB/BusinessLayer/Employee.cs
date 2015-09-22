@@ -12,6 +12,6 @@ namespace BusinessLayer
         public string EmployeeName { get; set; }
         public string Gender { get; set; }
         public string City { get; set; }
-        public DateTime City { get; set; }
+        public DateTime DateOfBirth { get; set; }
     }
 }

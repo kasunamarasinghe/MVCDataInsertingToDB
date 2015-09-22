@@ -1,5 +1,6 @@
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\MVCDataInsertingToDB.dll
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\MVCDataInsertingToDB.pdb
+C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\BusinessLayer.dll
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\EntityFramework.dll
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\EntityFramework.SqlServer.dll
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\Microsoft.Web.Infrastructure.dll
@@ -13,6 +14,7 @@ C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDat
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\System.Web.WebPages.Deployment.dll
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\System.Web.WebPages.dll
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\BusinessLayer.pdb
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\EntityFramework.xml
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\EntityFramework.SqlServer.xml
 C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\MVCDataInsertingToDB\bin\Newtonsoft.Json.xml

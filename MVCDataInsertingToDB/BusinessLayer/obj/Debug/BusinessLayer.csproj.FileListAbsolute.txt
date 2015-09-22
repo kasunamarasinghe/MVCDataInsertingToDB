@@ -1,0 +1,4 @@
+C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Kasun\Documents\GitHub\MVCDataInsertingToDB\MVCDataInsertingToDB\BusinessLayer\obj\Debug\BusinessLayer.pdb
