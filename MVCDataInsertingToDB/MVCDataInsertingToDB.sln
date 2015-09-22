@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDataInsertingToDB", "MVCDataInsertingToDB\MVCDataInsertingToDB.csproj", "{9F6C653C-442B-4555-BC00-2A637FC8ACAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "..\..\Employee\Employee\Employee\Employee.csproj", "{42C9BA59-AFE0-4F40-BEEA-4E8ED9E1D2D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{0C2027DE-34BB-42D7-A247-521B70FEAA3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,10 @@ Global
 		{9F6C653C-442B-4555-BC00-2A637FC8ACAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6C653C-442B-4555-BC00-2A637FC8ACAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6C653C-442B-4555-BC00-2A637FC8ACAC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{42C9BA59-AFE0-4F40-BEEA-4E8ED9E1D2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{42C9BA59-AFE0-4F40-BEEA-4E8ED9E1D2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{42C9BA59-AFE0-4F40-BEEA-4E8ED9E1D2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{42C9BA59-AFE0-4F40-BEEA-4E8ED9E1D2D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2027DE-34BB-42D7-A247-521B70FEAA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2027DE-34BB-42D7-A247-521B70FEAA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2027DE-34BB-42D7-A247-521B70FEAA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2027DE-34BB-42D7-A247-521B70FEAA3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
