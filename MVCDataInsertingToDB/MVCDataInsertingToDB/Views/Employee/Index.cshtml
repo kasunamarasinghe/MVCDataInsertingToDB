@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MVCDataInsertingToDB.Models.Emplyee>
+@using MVCDataInsertingToDB.Models;
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div style="font-family:'Times New Roman'">
+<h2>Index</h2>
+    <ul>
+        @foreach (Emplyee employee in @Model)
+        {
+            <li>
+                @Html.ActionLink(employee.EmployeeName,"EmployeeDetails",new {id=employee.EID})
+            </li>
+        }
+    </ul>
+    </div>

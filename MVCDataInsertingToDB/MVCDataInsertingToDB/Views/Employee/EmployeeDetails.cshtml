@@ -1,0 +1,25 @@
+﻿@model MVCDataInsertingToDB.Models.Emplyee
+
+@{
+    ViewBag.Title = "EmployeeDetails";
+}
+
+<table style="font-family:'Times New Roman'">
+    <tr>
+    <td>Employee ID:</td>
+    <td>@Model.EID</td>
+    </tr>
+      <tr>
+    <td>Employee Name:</td>
+    <td>@Model.EmployeeName</td>
+    </tr>
+      <tr>
+    <td>Employee Gender:</td>
+    <td>@Model.Gender</td>
+    </tr>
+      <tr>
+    <td>Employee City:</td>
+    <td>@Model.City</td>
+    </tr>
+</table>
+@Html.ActionLink("Back to list","Index")
